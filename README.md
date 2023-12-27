@@ -8,7 +8,7 @@ We started by exploring the dataset, which consists of information about differe
 A summary of the dataset's basic statistics.
 Histograms and box plots for visualizing the distribution of key features.
 Identification of trends, outliers, or patterns in the data.
-Example Graphs:
+
 
 Histograms and box plots for key features (e.g., duration, price).
 Data Preprocessing:
@@ -17,7 +17,7 @@ To prepare the data for modeling, we performed the following preprocessing steps
 Handling missing values.
 Encoding categorical variables using one-hot encoding.
 Standardizing numerical features.
-Example Graphs:
+
 
 Visualization of missing values.
 Feature Selection and Engineering:
